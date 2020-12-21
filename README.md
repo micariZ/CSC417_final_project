@@ -14,6 +14,11 @@ run the following command:
 
 final-project takes one argument. `scene1` simulates a snowman hits by a snowball. `scene2` and `scene3` simulates two snowballs smashing with different speed.
 
+## Demo Video
+I put the demo video here:  https://drive.google.com/file/d/1NyvO8dm2BuWeS7N06rSulBNg1_eI_6Kz/view?usp=sharing
+
+and a back up copy: https://drive.google.com/file/d/16S8yVG1dx5OqginWxCDrkXeFS2kDFLiu/view?usp=sharing
+
 ## change parameter
 All settings are stored in `includes/SimConstants.h`. Change them can change snow properties(chunkiness, hardness etc), but you need to rebuild the project to see the change. Also some settings can cause the program to crush, so try change in small quantity. I will put the values I used in the video.
 
