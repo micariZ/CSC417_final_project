@@ -2,7 +2,7 @@
 ## build
 I was able to build the project on Linux 18.04 and windows 10 with cmake version `3.10.2`,`3.18.3` gcc version `7.5`
 
-Clone this repository using the `--recursive` flag, or run `git submodule update --init --recursive`
+Clone this repository https://github.com/micariZ/CSC417_final_project.git using the `--recursive` flag, or run `git submodule update --init --recursive`. I include the source code in the zip as well just incase, but if you want to use the zip, make sure libigl(https://github.com/libigl/libigl.git) is placed under entern/
 
 run the following command:
  
