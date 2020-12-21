@@ -21,4 +21,4 @@ All settings are stored in `includes/SimConstants.h`. Change them can change sno
 
 `CRIT_STRETCH`:   small critical stretch gives smooth, sand like snow. Reference: `7.5e-3`. For lower value try number aourd `5.0e-3`. For higher value try number aourd `9.5e-3` (Note: don't remove the 1+, just change the second part).
 
-`HARDENING`:  small hardening gives icy snow that breaks fast. Reference: `5`. For lower value try number aourd `3`. For higher value try number less than or equal to 9 (`10` crushed program)
+`HARDENING`:  small hardening gives muddy snow that doesn't break easily. Reference: `5`. For lower value try number aourd `3`. For higher value try number less than or equal to 9 (`10` crushed program)
